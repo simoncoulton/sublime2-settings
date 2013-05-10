@@ -1,7 +1,6 @@
 {
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
-	"theme": "Soda Light.sublime-theme",
 	"font_size": 12.0,
 	"highlight_line": true,
 	"ignored_packages":
@@ -22,6 +21,8 @@
 		"python": "python3"
 	},
 	"tab_size": 4,
+	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"close_windows_when_empty": false
 }

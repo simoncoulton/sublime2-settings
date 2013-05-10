@@ -26,3 +26,7 @@
 ## Color Schemes
 
 * Solarized Light/Dark
+
+## Additional Packages
+
+https://github.com/tylercrompton/python-3-package
