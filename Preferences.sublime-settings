@@ -24,5 +24,6 @@
 	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"close_windows_when_empty": false
+	"close_windows_when_empty": false,
+	"soda_folder_icons": true
 }

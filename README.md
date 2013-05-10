@@ -30,3 +30,20 @@
 ## Additional Packages
 
 https://github.com/tylercrompton/python-3-package
+
+
+## Configurations
+
+### CodeIntel
+
+{
+    "Python": {
+        "python": '/usr/bin/python',
+        "pythonExtraPaths": []
+    },
+    "Python3": {
+        "python": '/usr/bin/python3',
+        "pythonExtraPaths": []
+    }
+}
+
