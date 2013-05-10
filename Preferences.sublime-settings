@@ -1,0 +1,26 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"font_size": 12.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_numbers": true,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"scroll_past_end": false,
+	"show_full_path": true,
+	"sublimelinter_delay": 500,
+	"sublimelinter_executable_map":
+	{
+		"python": "python3"
+	},
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
