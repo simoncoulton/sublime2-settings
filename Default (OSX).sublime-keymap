@@ -1,0 +1,4 @@
+[
+	{ "keys": ["super+k", "super+s"], "command": "format_sql" },
+    { "keys": ["f13"], "command": "solarized_toggle" }
+]
